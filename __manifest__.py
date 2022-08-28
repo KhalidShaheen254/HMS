@@ -21,7 +21,10 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'views\hms_patient.xml'
+        'views\hms_patient.xml',
+        'views\hms_department.xml',
+        'views\hms_doctor.xml',
+        'views\log_history.xml',
     ],
     # only loaded in demonstration mode
     # 'demo': [
